@@ -1,0 +1,6 @@
+.pokemon-image{
+    width:250px !important;
+    height:auto;
+    object-fit:cover;
+    margin:0 auto;
+}
